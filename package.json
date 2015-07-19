@@ -1,0 +1,30 @@
+{
+  "name": "angularu-a2-migration",
+  "version": "1.0.0",
+  "description": "More accurately named: How to use component-based directives in Angular 1 to make life much easier in Angular 2.",
+  "main": "app.js",
+  "scripts": {
+    "start": "browser-sync start --config bs-config.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davideast/angularu-a2-migration.git"
+  },
+  "keywords": [
+    "angular",
+    "observables",
+    "migration",
+    "to",
+    "ng2"
+  ],
+  "author": "Martin Hochel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davideast/angularu-a2-migration/issues"
+  },
+  "homepage": "https://github.com/davideast/angularu-a2-migration#readme",
+  "devDependencies": {
+    "browser-sync": "^2.7.13"
+  }
+}
